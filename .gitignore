@@ -1,5 +1,7 @@
 *.xlsx
 lab_versao_teste.ipynb
 data/*
+venv/
+.tool-versions
 
 !data/queries_fixadas.txt
