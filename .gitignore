@@ -3,5 +3,7 @@ lab_versao_teste.ipynb
 data/*
 venv/
 .tool-versions
+output/
+.ipynb_checkpoints
 
 !data/queries_fixadas.txt
