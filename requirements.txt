@@ -1,7 +1,7 @@
 spacy==3.8.*
 pandas==2.2.*
 elasticsearch==8.17.2
-sentence-transformers==3.4.*
+sentence-transformers==3.4.1
 nltk==3.9.*
 scikit-learn==1.6.*
 spacy==3.8.*
