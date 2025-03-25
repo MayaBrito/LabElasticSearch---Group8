@@ -2,6 +2,7 @@
 lab_versao_teste.ipynb
 data/*
 venv/
+.venv/
 .tool-versions
 output/
 .ipynb_checkpoints
