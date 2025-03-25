@@ -7,3 +7,4 @@ output/
 .ipynb_checkpoints
 
 !data/queries_fixadas.txt
+/.venv
