@@ -1,0 +1,2 @@
+./bin/elasticsearch-plugin install https://github.com/o19s/elasticsearch-learning-to-rank/releases/download/v1.5.10-es8.17.3/ltr-plugi
+n-v1.5.10-es8.17.3.zip
