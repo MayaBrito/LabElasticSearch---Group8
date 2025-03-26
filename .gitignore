@@ -1,6 +1,6 @@
 *.xlsx
 lab_versao_teste.ipynb
-data/*
+data
 venv/
 .venv/
 .tool-versions
